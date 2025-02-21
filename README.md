@@ -3,26 +3,26 @@
 
 ## Hypothesis testing
 
-[Statistical relationship between payment type and taxi fares](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Automatidata_Hypothesis_cleaned.ipynb)
+[Analysing relationship between payment type and taxi fares in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Automatidata_Hypothesis_cleaned.ipynb)
 
-[Relationship between device type and number of drives](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Waze_Hypothesis_cleaned.ipynb)
+[Analysing relationship between device type and number of drives in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Waze_Hypothesis_cleaned.ipynb)
 
 
 ## Logistic Regression
 
-[Predicting user churn using logistic regression](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Waze_LogisticRegression_cleaned.ipynb)
+[Predicting user churn using logistic regression in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Waze_LogisticRegression_cleaned.ipynb)
 
 ## Linear regression
 
-[Predicting taxi fares using multiple linear regression](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Automatidata_LinearRegression_cleaned.ipynb)
+[Predicting taxi fares using multiple linear regression in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Automatidata_LinearRegression_cleaned.ipynb)
 
 ## Machine learning
 
-[Predicting generous taxi tippers using Random Forest & XGBoost](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Automatidata_ML_cleaned.ipynb)
+[Predicting generous taxi tippers using Random Forest & XGBoost in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Automatidata_ML_cleaned.ipynb)
 
-[Predicting user churn using Random Forest & XGBoost](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Waze_ML_cleaned.ipynb)
+[Predicting user churn using Random Forest & XGBoost in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Waze_ML_cleaned.ipynb)
 
-[Predicting employee churn using Decision Tree & Random Forest](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Salifort%20Motors_LogisticRegression_ML.ipynb)
+[Predicting employee churn using Decision Tree & Random Forest in Python](https://github.com/RobinRehn/Portfolio/blob/b42c822ed15ffea0d7bcfa377f17b493e4b30216/Project%20files/Salifort%20Motors_LogisticRegression_ML.ipynb)
 
 
 
