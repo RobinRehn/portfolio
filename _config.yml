@@ -40,11 +40,9 @@ defaults:
       type: "certifications"
     values:
       layout: single
+      author_profile: true
       sidebar:
         nav: "certifications"
-
-# Enable sidebar
-show_sidebar: true
 
 # Build settings
 markdown: kramdown
