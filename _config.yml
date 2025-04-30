@@ -1,5 +1,4 @@
 title: Robin Rehn
-logo: /assets/profile.png
 
 # Minimal mistakes theme
 remote_theme: mmistakes/minimal-mistakes
@@ -10,22 +9,16 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Robin Rehn"
+  avatar : "/assets/profile.png"
+  bio    : "Data Analyst | Business Intelligence Developer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/robin-rehn-b58a57108/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/RobinRehn"
 
 # Site navigation
 collections:
