@@ -1,3 +1,4 @@
-# add the following to _config.yml file
-title: YOUR NAME
+title: Robin Rehn
+logo: /Assets/profile.jpeg
+description: Data Analyst Portfolio
 theme: jekyll-theme-minimal
