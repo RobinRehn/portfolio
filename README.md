@@ -4,9 +4,17 @@
 
 ## Certifications
 
-- Microsoft Certified: Power BI Data Analyst Associate
-- Datacamp SQL Associate
-- Google Advanced Data Analytics Specialization
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RobinRehn-4809/9C5005B0712FA3D5?sharingId=67049D86812D4D44">
+    <img src="assets/microsoft-certified-associate-badge.svg" alt="Microsoft Badge" width="200" style="margin: 10px;">
+  </a>
+  <a href="https://www.datacamp.com/certificate/SQA0019802995957">
+    <img src="assets/datacamp_SQL_Associate_Outline.png" alt="SQL badge" width="200" style="margin: 10px;">
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/f98765d9-c429-4ac5-913d-c8a598817828">
+    <img src="assets/GoogleBadge.png" alt="Google Badge" width="200" style="margin: 10px;">
+  </a>
+</p>
 
 ## Education
 
