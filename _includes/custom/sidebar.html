@@ -1,9 +1,9 @@
 {% if site.author.skills %}
 <div class="author__skills">
   <h3 class="author__heading">Skills</h3>
-  <ul>
+  <ul class="author__content">
     {% for skill in site.author.skills %}
-      <li>{{ skill }}</li>
+      <li class="author__content-item">{{ skill }}</li>
     {% endfor %}
   </ul>
 </div>
