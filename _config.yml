@@ -11,7 +11,7 @@ plugins:
 author:
   name   : "Robin Rehn"
   avatar : "/assets/profile.png"
-  bio    : "Data Analyst | Business Intelligence Developer"
+  bio    : "Data Analyst & Business Intelligence Developer"
   links:
     - label: "LinkedIn"
       icon: "fa fa-linkedin"
