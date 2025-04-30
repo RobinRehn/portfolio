@@ -1,4 +1,6 @@
-#### Technical Skills: Python, SQL, Power BI
+## Education
+
+M.Sc. Economics & Business Administration - Hanken School of Economics (_May 2018_)
 
 ## Certifications
 
@@ -14,9 +16,9 @@
   </a>
 </p>
 
-## Education
 
-M.Sc. Economics & Business Administration - Hanken School of Economics (_May 2018_)
+#### Technical Skills: Python, SQL, Power BI
+
 
 ## Projects
 
