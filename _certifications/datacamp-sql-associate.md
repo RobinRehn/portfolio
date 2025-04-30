@@ -1,6 +1,8 @@
 ---
 title: Datacamp SQL Associate
 layout: single
+sidebar:
+  nav: "certifications"
 permalink: /certifications/datacamp-sql-associate/
 ---
 
