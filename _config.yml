@@ -12,12 +12,10 @@ author:
   name   : "Robin Rehn"
   avatar : "/assets/profile.png"
   bio    : "Data Analyst"
-  skills:
+  skills:  
     - Python
     - SQL
     - Power BI
-    - Pandas
-    - Git
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
