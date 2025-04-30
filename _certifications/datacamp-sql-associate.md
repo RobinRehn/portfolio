@@ -1,5 +1,5 @@
 ---
-title: Datacamp SQL associate
+title: Datacamp SQL Associate
 layout: single
 permalink: /certifications/datacamp-sql-associate/
 ---
