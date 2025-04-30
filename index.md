@@ -1,9 +1,11 @@
 ---
 layout: home
 author_profile: true
-title: My Data Analyst Portfolio
+title: Welcome to my portfolio!
 permalink: /
 ---
+
+Here you'll find my projects, certifications, and other work as a data analyst.
 
 ## Education
 
