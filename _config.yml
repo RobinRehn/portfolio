@@ -2,7 +2,7 @@ title: Robin Rehn
 logo: /assets/profile.png
 
 # Minimal mistakes theme
-remote-theme: "mmistakes/minimal-mistakes@4.24.0"
+remote-theme: "mmistakes/minimal-mistakes@4.27.0"
 
 plugins: 
   - jekyll-include-cache
