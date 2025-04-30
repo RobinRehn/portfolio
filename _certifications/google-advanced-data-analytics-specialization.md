@@ -1,6 +1,8 @@
 ---
 title: Google Advanced Data Analytics Specialization
 layout: single
+sidebar:
+  nav: "certifications"
 permalink: /certifications/google-advanced-data-analytics/
 ---
 
