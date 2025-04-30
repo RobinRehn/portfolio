@@ -1,4 +1,6 @@
 title: My Data Analyst Portfolio
+url: "https://robinrehn.github.io"
+baseurl: "/portfolio"
 
 # Minimal mistakes theme
 remote_theme: mmistakes/minimal-mistakes
