@@ -14,7 +14,7 @@ author:
   bio    : "Data Analyst | Business Intelligence Developer"
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/robin-rehn-b58a57108/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
