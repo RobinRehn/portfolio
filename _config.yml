@@ -27,11 +27,11 @@ author:
       url: "https://github.com/RobinRehn"
 
 # Site navigation
-collections:
-  projects:
-    output: true
-  certifications:
-    output: true
+# collections:
+  # projects:
+    # output: true
+  # certifications:
+    # output: true
 
 defaults:
   - scope:
