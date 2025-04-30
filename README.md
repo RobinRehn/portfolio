@@ -18,7 +18,7 @@
 
 ## Education
 
-M.Sc. Economics & Business Administration | Hanken School of Economics (_May 2018_)
+M.Sc. Economics & Business Administration - Hanken School of Economics (_May 2018_)
 
 ## Projects
 
