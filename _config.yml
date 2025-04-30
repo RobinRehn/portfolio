@@ -1,3 +1,32 @@
 title: Robin Rehn
 logo: /assets/profile.png
-theme: jekyll-theme-minimal
+
+# Minimal mistakes theme
+remote-theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins: 
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site navigation
+collections:
+  projects:
+    output: true
+  certifications:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "certifications"
+    values:
+      layout: single
+      sidebar:
+        nav: "certifications"
+
+# Enable sidebar
+show_sidebar: true
+
+# Build settings
+markdown: kramdown
