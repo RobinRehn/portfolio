@@ -1,6 +1,8 @@
 ---
 title: Microsoft Power BI Analyst Associate
 layout: single
+sidebar:
+  nav: "certifications"
 permalink: /certifications/microsoft-powerbi-associate/
 ---
 
