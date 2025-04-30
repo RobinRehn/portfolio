@@ -34,12 +34,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "certifications"
     values:
-      layout: single
-      author_profile: true
       sidebar:
-        nav: "certifications"
+        custom: custom/sidebar.html
 
 # Build settings
 markdown: kramdown
