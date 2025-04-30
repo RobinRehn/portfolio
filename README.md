@@ -1,5 +1,3 @@
-# Data Analyst
-
 #### Technical Skills: Python, SQL, Power BI
 
 ## Certifications
