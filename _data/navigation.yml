@@ -1,15 +1,15 @@
-main:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "Certifications"
-    url: /certifications/
+# main:
+ # - title: "Home"
+ #   url: /
+ # - title: "Projects"
+ #   url: /projects/
+#  - title: "Certifications"
+#    url: /certifications/
 
-certifications:
-  - title: "Microsoft Power BI Analyst Associate"
-    url: /certifications/microsoft-powerbi-associate/
-  - title: "Datacamp SQL Associate"
-    url: /certifications/datacamp-sql-associate/
-  - title: "Google Advanced Data Analytics Specialization"
-    url: /certifications/google-advanced-data-analytics/
+# certifications:
+ # - title: "Microsoft Power BI Analyst Associate"
+ #   url: /certifications/microsoft-powerbi-associate/
+ # - title: "Datacamp SQL Associate"
+ #   url: /certifications/datacamp-sql-associate/
+#  - title: "Google Advanced Data Analytics Specialization"
+ #   url: /certifications/google-advanced-data-analytics/
