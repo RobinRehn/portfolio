@@ -35,17 +35,17 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 <div style="margin-bottom: 20px;">
   <div style="display: flex; justify-content: space-between;">
     <strong>SQL</strong>
-    <span>4/5</span>
+    <span>Proficient</span>
   </div>
   <div style="background-color: #e0e0e0; border-radius: 10px; height: 10px; width: 100%;">
-    <div style="background-color: #4CAF50; height: 10px; width: 80%; border-radius: 10px;"></div>
+    <div style="background-color: #4CAF50; height: 10px; width: 60%; border-radius: 10px;"></div>
   </div>
 </div>
 
 <div style="margin-bottom: 20px;">
   <div style="display: flex; justify-content: space-between;">
     <strong>Power BI</strong>
-    <span>3/5</span>
+    <span>Proficient</span>
   </div>
   <div style="background-color: #e0e0e0; border-radius: 10px; height: 10px; width: 100%;">
     <div style="background-color: #4CAF50; height: 10px; width: 60%; border-radius: 10px;"></div>
@@ -55,7 +55,7 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 <div style="margin-bottom: 20px;">
   <div style="display: flex; justify-content: space-between;">
     <strong>Python</strong>
-    <span>2/5</span>
+    <span>Intermediate</span>
   </div>
   <div style="background-color: #e0e0e0; border-radius: 10px; height: 10px; width: 100%;">
     <div style="background-color: #4CAF50; height: 10px; width: 40%; border-radius: 10px;"></div>
