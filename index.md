@@ -28,11 +28,6 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 
 ## Skills
 
-<p>Python</p>
-<div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
-  <div style="background-color: #4CAF50; height: 12px; width: 100%; border-radius: 10px;"></div>
-</div>
-
 <p>SQL</p>
 <div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
   <div style="background-color: #4CAF50; height: 12px; width: 80%; border-radius: 10px;"></div>
@@ -40,7 +35,12 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 
 <p>Power BI</p>
 <div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
-  <div style="background-color: #4CAF50; height: 12px; width: 80%; border-radius: 10px;"></div>
+  <div style="background-color: #4CAF50; height: 12px; width: 60%; border-radius: 10px;"></div>
+</div>
+
+<p>Python</p>
+<div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
+  <div style="background-color: #4CAF50; height: 12px; width: 40%; border-radius: 10px;"></div>
 </div>
 
 
