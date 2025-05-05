@@ -49,7 +49,9 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 
 ### Hypothesis testing
 
-[Analysing the relationship between payment type and taxi fares in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Automatidata_Hypothesis_cleaned.ipynb)
+Analysing the relationship between payment type and taxi fares in Python
+
+[📖 View Notebook](https://nbviewer.org/github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Automatidata_Hypothesis_cleaned.ipynb){:target="_blank"}
 
 [Analysing the relationship between device type and number of drives in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Waze_Hypothesis_cleaned.ipynb)
 
