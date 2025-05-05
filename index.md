@@ -1,11 +1,15 @@
 ---
 layout: single
 author_profile: true
-title: Welcome to my portfolio!
+title: About me
 permalink: /
 ---
 
-Here you'll find my projects, certifications, and other work as a data analyst.
+After several years in marketing and leadership roles in tech, I’m currently pursuing a career as a data analyst.
+
+During my time as a marketer I already picked up solid base skillset in working with data, and I have been studying full-time during the past year to further boost my technical skills.
+
+In addition to an already solid base, as I’ve worked in many leadership roles, I bring a lot of valuable experience in project management, stakeholder management and data-driven decision making.
 
 ## Education
 
