@@ -14,13 +14,13 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 ## Certifications
 
 <p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RobinRehn-4809/9C5005B0712FA3D5?sharingId=67049D86812D4D44" style="display: inline-block; margin: 10px;">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/RobinRehn-4809/9C5005B0712FA3D5?sharingId=67049D86812D4D44" target="_blank" style="display: inline-block; margin: 10px;">
     <img src="assets/microsoft-certified-associate-badge.svg" alt="Microsoft Badge" style="height: 150px;">
   </a>
-  <a href="https://www.datacamp.com/certificate/SQA0019802995957" style="display: inline-block; margin: 10px;">
+  <a href="https://www.datacamp.com/certificate/SQA0019802995957" target="_blank" style="display: inline-block; margin: 10px;">
     <img src="assets/datacamp_SQL_Associate_Outline.png" alt="SQL badge" style="height: 150px;">
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/f98765d9-c429-4ac5-913d-c8a598817828" style="display: inline-block; margin: 10px;">
+  <a href="https://www.credly.com/earner/earned/badge/f98765d9-c429-4ac5-913d-c8a598817828" target="_blank" style="display: inline-block; margin: 10px;">
     <img src="assets/GoogleBadge.png" alt="Google Badge" style="height: 150px;">
   </a>
 </p>
