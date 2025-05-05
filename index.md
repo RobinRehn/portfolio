@@ -28,21 +28,20 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 
 ## Skills
 
-<p>SQL</p>
+<p style="margin-top: 20px; margin-bottom: 6px;"><strong>SQL</strong></p>
 <div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
   <div style="background-color: #4CAF50; height: 12px; width: 80%; border-radius: 10px;"></div>
 </div>
 
-<p>Power BI</p>
+<p style="margin-top: 20px; margin-bottom: 6px;"><strong>Power BI</strong></p>
 <div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
   <div style="background-color: #4CAF50; height: 12px; width: 60%; border-radius: 10px;"></div>
 </div>
 
-<p>Python</p>
+<p style="margin-top: 20px; margin-bottom: 6px;"><strong>Python</strong></p>
 <div style="background-color: #e0e0e0; border-radius: 10px; height: 12px; width: 100%;">
   <div style="background-color: #4CAF50; height: 12px; width: 40%; border-radius: 10px;"></div>
 </div>
-
 
 ## Projects
 
