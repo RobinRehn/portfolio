@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 title: Welcome to my portfolio!
 permalink: /
+paginate: false
 ---
 
 Here you'll find my projects, certifications, and other work as a data analyst.
