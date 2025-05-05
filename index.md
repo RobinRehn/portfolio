@@ -65,27 +65,21 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 ## Projects
 
 
-### Hypothesis testing
 
-Analysing the relationship between payment type and taxi fares in Python
+### User Churn Prediction Using Logistic Regression
 
-[📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Automatidata_Hypothesis_cleaned.ipynb){:target="_blank"}
-
-
-### Logistic Regression
-
-Predicting user churn using logistic regression in Python (Waze dataset).
+Developed a logistic regression model to predict user churn for a navigation app. Analyzed user behavior data to identify key factors influencing churn, providing recommendations to enhance user retention.
 
 [📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Waze_LogisticRegression_cleaned.ipynb){:target="_blank"}
 
-### Linear regression
+### Taxi Fare Prediction Using Linear Regression
 
-Predicting taxi fares using multiple linear regression in Python.
+Built a multiple linear regression model to predict taxi fares based on trip attributes. The model aids in fare estimation and helps in understanding fare dynamics.
 
 [📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Automatidata_LinearRegression_cleaned.ipynb){:target="_blank"}
 
-### Machine learning
+### Employee Turnover Analysis Using Machine learning
 
-Predicting employee churn using Decision Tree and Random Forest models in Python.
+Analyzed employee data to identify factors contributing to turnover at Salifort Motors. Employed decision tree and random forest models to predict employee attrition, offering insights for HR interventions.
 
 [📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Salifort%20Motors_LogisticRegression_ML.ipynb){:target="_blank"}
