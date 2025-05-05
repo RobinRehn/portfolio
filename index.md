@@ -51,36 +51,23 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 
 Analysing the relationship between payment type and taxi fares in Python
 
-[📖 View Notebook](https://nbviewer.org/github/RobinRehn/portfolio/blob/main/Project%20files/Automatidata_Hypothesis_cleaned.ipynb){:target="_blank"}
-
-[Analysing the relationship between device type and number of drives in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Waze_Hypothesis_cleaned.ipynb)
+[📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Automatidata_Hypothesis_cleaned.ipynb){:target="_blank"}
 
 
 ### Logistic Regression
 
-[Predicting user churn using logistic regression in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Waze_LogisticRegression_cleaned.ipynb)
+Predicting user churn using logistic regression in Python (Waze dataset).
+
+[📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Waze_LogisticRegression_cleaned.ipynb){:target="_blank"}
 
 ### Linear regression
 
-[Predicting taxi fares using multiple linear regression in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Automatidata_LinearRegression_cleaned.ipynb)
+Predicting taxi fares using multiple linear regression in Python.
+
+[📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Automatidata_LinearRegression_cleaned.ipynb){:target="_blank"}
 
 ### Machine learning
 
-[Predicting generous taxi tippers using Random Forest & XGBoost in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Automatidata_ML_cleaned.ipynb)
+Predicting employee churn using Decision Tree and Random Forest models in Python.
 
-[Predicting user churn using Random Forest & XGBoost in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Waze_ML_cleaned.ipynb)
-
-[Predicting employee churn using a Decision Tree & Random Forest in Python](https://github.com/RobinRehn/Portfolio/blob/23d761927c418868c4bb88be1e7e1e87109fd014/Project%20files/Salifort%20Motors_LogisticRegression_ML.ipynb)
-
-
-
-### Data visualisation
-
-#### Tableau
-
-[CO2 Emissions per country - Interactive map](https://public.tableau.com/app/profile/robin.rehn/viz/C02emissionspercountry-joinedtables/Sheet2)
-
-[Lightning strike locations - Interactive map](https://public.tableau.com/app/profile/robin.rehn/viz/Lightningstrikes-interactivedashboard/Dashboard1)
-
-[World happiness - Influencing factors](https://public.tableau.com/app/profile/robin.rehn/viz/Worldhappinessdashboard/Dashboard1)
-
+[📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/Salifort%20Motors_LogisticRegression_ML.ipynb){:target="_blank"}
