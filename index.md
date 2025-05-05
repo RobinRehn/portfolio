@@ -1,9 +1,8 @@
 ---
-layout: home
+layout: single
 author_profile: true
 title: Welcome to my portfolio!
 permalink: /
-entries_layout: none
 ---
 
 Here you'll find my projects, certifications, and other work as a data analyst.
