@@ -5,11 +5,13 @@ title: About me
 permalink: /
 ---
 
-After several years in marketing and leadership roles in tech, I’m currently pursuing a career as a data analyst.
+After several years in marketing leadership, I’m currently pursuing a career as a data analyst. 
 
-During my time as a marketer I already picked up solid base skillset in working with data, and I have been studying full-time during the past year to further boost my technical skills.
+During my career in marketing, I quickly came to rely on the iterative process of experimentation and always sought to uncover opportunities through out the whole customer journey which led me to learn to combine, manipulate and analyse data from various sources to gain visibility and evaluate the impact of marketing efforts. 
 
-In addition to an already solid base, as I’ve worked in many leadership roles, I bring a lot of valuable experience in project management, stakeholder management and data-driven decision making.
+In addition to an already solid skills in data, as I’ve worked in many leadership roles I bring a lot of valuable experience in project management, stakeholder management and understanding of the practicalities of data-driven decision making in a leadership context.
+
+I have been studying full-time during the past year to support this career transition, focusing on core practical skills with Python, SQL and Power BI and theoretical foundations in statistics & probability theory.
 
 ## Education
 
