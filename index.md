@@ -67,6 +67,33 @@ M.Sc. Economics & Business Administration - Hanken School of Economics (_May 201
 ## Projects
 
 
+### Marketing Insights for an E-Commerce Company
+
+Worked on data from an e-commerce company with the following list of deliverables:
+
+1. Calculate Invoice amount or sale_amount or revenue for each transaction and item level
+
+2. Detailed exploratory analysis
+    * Customers acquired each month
+    * Revenue from existing/new customers each month
+    * Effect of discounts on revenue
+    * Effect of marketing spend on revenue
+    * Top products in terms of quantity sold and revenue
+
+3. Customer Segmentation
+    * Utilize Heuristic (RFM) and Scientific (K-Means) methods to define customer segments
+
+4. Customer Lifetime Value
+    * Define CLV classes for each customer
+    * Build classification model
+
+5. Cross-Selling (Which products are selling together)
+    * Perform market basket analysis to understand which of items can be bundled together
+
+6. Churn analysis
+    * Perform cohort analysis to understand retention on monthly basis
+   
+[📖 View Notebook](https://nbviewer.org/github/RobinRehn/Portfolio/blob/main/Project%20files/MarketingInsightsForE-Commerce%20Company.ipynb){:target="_blank"}
 
 ### User Churn Prediction Using Logistic Regression
 
