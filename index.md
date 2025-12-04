@@ -110,7 +110,8 @@ Conducted as an assignment during an hiring process for a data scientist positio
 
 Your task is to analyze provided SEO data, clean and prepare it, develop an insightful report in Power BI, and present your findings in a short video presentation.
 
-1. Prepare data
+***Prepare data***
+
 You ‘ve been provided dummy SEO data in three separate CSV files:
 * File: page_performance.csv
 * File: technical_seo.csv
@@ -118,7 +119,7 @@ You ‘ve been provided dummy SEO data in three separate CSV files:
   
 Use these datasets to build a data model that you use for the task. You are allowed to use preferred methods & tools to prepare data. NOTE: Data might include quality issues. This is on purpose.
 
-2. Develop Power BI report
+***Develop Power BI report***
 
 With prepared data model, create MS Power BI report with visualized key findings. Target end-user group for the report is a web & marketing manager with low to medium SEO understanding and analytical maturity. Focus on delivering insights that you find most important, worthwhile and actionable. There is no need to unearth everything from the data.
 
@@ -128,10 +129,9 @@ With prepared data model, create MS Power BI report with visualized key findings
 * Report language: English
 * Power BI for report development is mandatory.
 
-3. Deliverable: Video presentation of the task
-Record a max 10 min video presentation of your task and findings.
-Video presentation should contain two 5 min parts described below.
-Presentation language: English
+***Deliverable: Video presentation of the task***
+
+Record a max 10 min video presentation of your task and findings. Video presentation should contain two 5 min parts described below. Presentation language: English
 
 Part 1: Data Preparation & Power BI Report Development (First, max 5 minutes of the Video)
 * Present a rundown of the steps you took to clean and structure the data and develop the Power BI report.
