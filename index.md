@@ -99,10 +99,16 @@ Worked on data from an e-commerce company with the following list of deliverable
 
 Conducted as an assignment during an hiring process for a data scientist position at a marketing agency.  
 
+<iframe 
+  src="https://drive.google.com/file/d/1Up8_nvr92sG3OhCJKYHXj95tWrAoh7vH/preview" 
+  width="640" 
+  height="480" 
+  allow="autoplay">
+</iframe>
+
 **Task overview**
 
-Your task is to analyze provided SEO data, clean and prepare it, develop an insightful report in Power
-BI, and present your findings in a short video presentation.
+Your task is to analyze provided SEO data, clean and prepare it, develop an insightful report in Power BI, and present your findings in a short video presentation.
 
 1. Prepare data
 You ‘ve been provided dummy SEO data in three separate CSV files:
@@ -110,15 +116,11 @@ You ‘ve been provided dummy SEO data in three separate CSV files:
 * File: technical_seo.csv
 * File: indexing_content.csv
   
-Use these datasets to build a data model that you use for the task.
-You are allowed to use preferred methods & tools to prepare data.
-NOTE: Data might include quality issues. This is on purpose.
+Use these datasets to build a data model that you use for the task. You are allowed to use preferred methods & tools to prepare data. NOTE: Data might include quality issues. This is on purpose.
 
 2. Develop Power BI report
-With prepared data model, create MS Power BI report with visualized key findings.
-Target end-user group for the report is a web & marketing manager with low to medium SEO
-understanding and analytical maturity. Focus on delivering insights that you find most
-important, worthwhile and actionable. There is no need to unearth everything from the data.
+
+With prepared data model, create MS Power BI report with visualized key findings. Target end-user group for the report is a web & marketing manager with low to medium SEO understanding and analytical maturity. Focus on delivering insights that you find most important, worthwhile and actionable. There is no need to unearth everything from the data.
 
 * The Power BI report should be a single-page dashboard containing 3-7 key visual metrics.
 * Focus on report readability and visual storytelling
@@ -131,26 +133,19 @@ Record a max 10 min video presentation of your task and findings.
 Video presentation should contain two 5 min parts described below.
 Presentation language: English
 
-1. Part 1: Data Preparation & Power BI Report Development (First, max 5 minutes of the
-Video)
+Part 1: Data Preparation & Power BI Report Development (First, max 5 minutes of the Video)
 * Present a rundown of the steps you took to clean and structure the data and develop the Power BI report.
 * Present a list of work steps to explain how you handled possible data issues, developed the data model, and built the report itself.
 * You do not need to show the actual work process, only describe which tools & methods you used and what was found and done.
 * You can use preferred tools for presentation. For example: PowerPoint
-  
-3. Part 2: Report & findings presentation to stakeholders (Last, max 5 minutes of video)
+
+Part 2: Report & findings presentation to stakeholders (Last, max 5 minutes of video)
 * Present the finalized Power BI report with key insights.
 * Explain the SEO issues found and recommendations for improvement.
 * Use clear and structured storytelling, making the insights actionable and easy to understand
 * Focus on delivering insights that you find most important and worthwhile. There is no need to unearth everything from the data. Use time effectively.
 * Simulated target group for second part of the video: Web & marketing manager with low to medium level understanding of the subject.
 
-<iframe 
-  src="https://drive.google.com/file/d/1Up8_nvr92sG3OhCJKYHXj95tWrAoh7vH/preview" 
-  width="640" 
-  height="480" 
-  allow="autoplay">
-</iframe>
 
 ### User Churn Prediction Using Logistic Regression
 
